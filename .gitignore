@@ -208,7 +208,7 @@ git_issues.md
 
 .next/
 .tests/
-.issues/
+# .issues/
 .docs/
 .issues/
 .gitboss/
@@ -218,3 +218,40 @@ manage-collab.sh
 publish.sh
 combine.sh
 combined_output.txt
+.local
+.scripts
+tree.md
+tree.md
+.scripts
+.local
+.do
+/plans
+plans/
+
+# Codeium
+.codeiumignore
+todo/
+
+# Continue development files
+.continue/
+.continuerc.json
+continue.lock
+continue_core.log
+contextProviders/
+continue_workspace/
+.continue-cache/
+continue_config.json
+
+# Continue temporary files
+.continue-temp/
+.continue-logs/
+.continue-downloads/
+
+# Continue VS Code specific
+.vscode-continue/
+.vscode-continue-cache/
+
+.prompts/
+
+.llm.env
+.private/
